@@ -15,11 +15,11 @@ C:/Users/usuario/Desktop/FUNDAMENTO VR/ConexionLeap2.0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49154
+57249
 Successfully changed project path to: C:/Users/usuario/Desktop/FUNDAMENTO VR/ConexionLeap2.0
 C:/Users/usuario/Desktop/FUNDAMENTO VR/ConexionLeap2.0
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 56.76 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 45.14 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
@@ -35,118 +35,88 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56720
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56892
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002960 seconds.
+Registered in 0.002390 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 53.25 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 42.76 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.425 seconds
+- Completed reload, in  1.751 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002047 seconds.
+Registered in 0.001717 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.830 seconds
+- Completed reload, in  1.702 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1448 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 68.7 MB.
+System memory in use before: 68.6 MB.
 System memory in use after: 68.7 MB.
 
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1890.
-Total: 4.948100 ms (FindLiveObjects: 0.473400 ms CreateObjectMapping: 0.518600 ms MarkObjects: 3.815900 ms  DeleteObjects: 0.137600 ms)
+Total: 4.814600 ms (FindLiveObjects: 0.814300 ms CreateObjectMapping: 0.231300 ms MarkObjects: 3.621200 ms  DeleteObjects: 0.144600 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/CambioDeMat.cs
-  artifactKey: Guid(d993390a47a2d2e4cb7a867de4873b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CambioDeMat.cs using Guid(d993390a47a2d2e4cb7a867de4873b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89e5c32d50ac85f48559dda72075d272') in 0.101925 seconds
-  Import took 0.108262 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001751 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.534 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1436 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 68.3 MB.
-System memory in use after: 68.4 MB.
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1893.
-Total: 2.934300 ms (FindLiveObjects: 0.637000 ms CreateObjectMapping: 0.136900 ms MarkObjects: 2.083200 ms  DeleteObjects: 0.075000 ms)
+  path: Assets/Modelos_Tambores
+  artifactKey: Guid(8c78ca68ee86fd44ca4ef8a0fc25b155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos_Tambores using Guid(8c78ca68ee86fd44ca4ef8a0fc25b155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ca6e3aeaafa6fb648691668b4b36c2d') in 0.050189 seconds
+  Import took 0.055825 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 62.250876 seconds.
-  path: Assets/CambioDeMat.cs
-  artifactKey: Guid(d993390a47a2d2e4cb7a867de4873b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CambioDeMat.cs using Guid(d993390a47a2d2e4cb7a867de4873b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf5883b6baffb0e47a1546c234c38416') in 0.043785 seconds
-  Import took 0.048394 seconds .
+  Time since last request: 5.205627 seconds.
+  path: Assets/Modelos_Tambores/Tambores fbx proyecto Baqueta.fbx
+  artifactKey: Guid(d4084532fcd989e408eda2bf08b37d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos_Tambores/Tambores fbx proyecto Baqueta.fbx using Guid(d4084532fcd989e408eda2bf08b37d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54533aee4f46293acc01574343d6c814') in 0.279035 seconds
+  Import took 0.284193 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 22.094001 seconds.
-  path: Assets/New Material 1.mat
-  artifactKey: Guid(ad110759d99ff6b4db4456bf85f677c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Material 1.mat using Guid(ad110759d99ff6b4db4456bf85f677c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b2b2c5993ef3951861cda92b4fd8538') in 0.184322 seconds
-  Import took 0.187779 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001730 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.385 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1436 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 72.0 MB.
-System memory in use after: 72.0 MB.
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1936.
-Total: 3.057800 ms (FindLiveObjects: 0.281700 ms CreateObjectMapping: 0.054100 ms MarkObjects: 2.640300 ms  DeleteObjects: 0.079500 ms)
+  Time since last request: 0.000331 seconds.
+  path: Assets/Modelos_Tambores/Tambores fbx proyecto Tambor 1.fbx
+  artifactKey: Guid(5ff1066e8d0d5ab4cae612ea1bbbd384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos_Tambores/Tambores fbx proyecto Tambor 1.fbx using Guid(5ff1066e8d0d5ab4cae612ea1bbbd384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f658701794652324956cfd1f00ff30') in 0.325920 seconds
+  Import took 0.330545 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 88.900947 seconds.
-  path: Assets/New Material 1.mat
-  artifactKey: Guid(ad110759d99ff6b4db4456bf85f677c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Material 1.mat using Guid(ad110759d99ff6b4db4456bf85f677c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '016e4c06a3bd243c599d8727ec5f93de') in 0.133774 seconds
-  Import took 0.137243 seconds .
+  Time since last request: 0.000645 seconds.
+  path: Assets/Modelos_Tambores/Tambores fbx proyecto Tambor 3.fbx
+  artifactKey: Guid(1a95a3267ee8cd244a33ca6e21126879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos_Tambores/Tambores fbx proyecto Tambor 3.fbx using Guid(1a95a3267ee8cd244a33ca6e21126879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '518c28d611a7697530198184b628d18f') in 0.755859 seconds
+  Import took 0.772096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Modelos_Tambores/Tambores fbx proyecto Tambor 2.fbx
+  artifactKey: Guid(327483e03c46a374d8fab8e1201301a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos_Tambores/Tambores fbx proyecto Tambor 2.fbx using Guid(327483e03c46a374d8fab8e1201301a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e1f72793f4084ac69cfef47c4a9b3f1') in 0.298941 seconds
+  Import took 0.304575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Modelos_Tambores/Tambores fbx proyecto Prato.fbx
+  artifactKey: Guid(5270a157ffabc2e4dacc2c8f12879ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos_Tambores/Tambores fbx proyecto Prato.fbx using Guid(5270a157ffabc2e4dacc2c8f12879ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '293b2d9dc0866b2c8e7e3b07bf7e2adb') in 0.205004 seconds
+  Import took 0.209128 seconds .
 
