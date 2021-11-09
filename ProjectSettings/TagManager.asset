@@ -5,11 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Golpe
+  - Sonido
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Instrumento
   - Water
   - UI
   - 
