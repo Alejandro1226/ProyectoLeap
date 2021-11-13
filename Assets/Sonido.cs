@@ -23,6 +23,6 @@ public class Sonido : MonoBehaviour
         
             audioSource.Play();
         
-    
-}
+        
+    }
 }
