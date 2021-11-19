@@ -15,11 +15,11 @@ C:/Users/usuario/Desktop/FUNDAMENTO VR/ConexionLeap2.0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60514
+49946
 Successfully changed project path to: C:/Users/usuario/Desktop/FUNDAMENTO VR/ConexionLeap2.0
 C:/Users/usuario/Desktop/FUNDAMENTO VR/ConexionLeap2.0
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 57.64 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 107.30 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
@@ -35,288 +35,772 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56164
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56716
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002903 seconds.
+Registered in 0.006380 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 51.63 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 104.86 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.846 seconds
+- Completed reload, in  3.548 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002027 seconds.
+Registered in 0.003090 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.545 seconds
+- Completed reload, in  2.498 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1462 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.0 MB.
+System memory in use before: 87.1 MB.
 System memory in use after: 87.1 MB.
 
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1923.
-Total: 3.202000 ms (FindLiveObjects: 0.266700 ms CreateObjectMapping: 0.065600 ms MarkObjects: 2.688600 ms  DeleteObjects: 0.179200 ms)
+Total: 5.639300 ms (FindLiveObjects: 0.477500 ms CreateObjectMapping: 0.113900 ms MarkObjects: 4.767100 ms  DeleteObjects: 0.277100 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/New Material 3.mat
-  artifactKey: Guid(76d5bf5ac03308d40872d8f58d7666aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Material 3.mat using Guid(76d5bf5ac03308d40872d8f58d7666aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd969f1a36b27de4f6f8a1b85e674162c') in 0.227214 seconds
-  Import took 0.231486 seconds .
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(44b2c64467aefaa48a3acb2b4c392bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(44b2c64467aefaa48a3acb2b4c392bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a29aef772d1487c3f61d028cedf62cb') in 0.203144 seconds
+  Import took 0.208952 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000327 seconds.
-  path: Assets/New Material 2.mat
-  artifactKey: Guid(4c256347264705542b3a1741853d2ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Material 2.mat using Guid(4c256347264705542b3a1741853d2ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a696d51d7b502d4107490a9c7e055622') in 0.055287 seconds
-  Import took 0.060309 seconds .
+  Time since last request: 163.761976 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-SphereGreen.mat
+  artifactKey: Guid(85c159f271e24cd41a592f8615d0e613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-SphereGreen.mat using Guid(85c159f271e24cd41a592f8615d0e613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94721ed5e743d968fa747f0dba49a479') in 1.732042 seconds
+  Import took 1.738116 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.036762 seconds.
-  path: Assets/New Material 2.mat
-  artifactKey: Guid(4c256347264705542b3a1741853d2ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Material 2.mat using Guid(4c256347264705542b3a1741853d2ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a696d51d7b502d4107490a9c7e055622') in 0.059048 seconds
-  Import took 0.063946 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002118 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.11 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  4.942 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.7 MB.
-System memory in use after: 89.8 MB.
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1966.
-Total: 7.824600 ms (FindLiveObjects: 1.796100 ms CreateObjectMapping: 0.725000 ms MarkObjects: 5.109100 ms  DeleteObjects: 0.186700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002003 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.612 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.7 MB.
-System memory in use after: 89.8 MB.
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1969.
-Total: 3.547700 ms (FindLiveObjects: 0.358800 ms CreateObjectMapping: 0.050300 ms MarkObjects: 2.993900 ms  DeleteObjects: 0.142400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004259 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.124 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.7 MB.
-System memory in use after: 89.8 MB.
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1972.
-Total: 4.804500 ms (FindLiveObjects: 0.367400 ms CreateObjectMapping: 0.089600 ms MarkObjects: 4.175900 ms  DeleteObjects: 0.169400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004213 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.547 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.29 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.7 MB.
-System memory in use after: 89.8 MB.
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1975.
-Total: 6.976700 ms (FindLiveObjects: 0.691800 ms CreateObjectMapping: 0.382000 ms MarkObjects: 5.719800 ms  DeleteObjects: 0.179600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.009232 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.707 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.8 MB.
-System memory in use after: 89.8 MB.
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1978.
-Total: 2.901400 ms (FindLiveObjects: 0.356400 ms CreateObjectMapping: 0.077900 ms MarkObjects: 2.315200 ms  DeleteObjects: 0.149200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003585 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.694 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.8 MB.
-System memory in use after: 89.8 MB.
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1981.
-Total: 4.308000 ms (FindLiveObjects: 0.396700 ms CreateObjectMapping: 0.085700 ms MarkObjects: 3.630100 ms  DeleteObjects: 0.192600 ms)
+  Time since last request: 0.000573 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-Fall.mat
+  artifactKey: Guid(fe9e3b82908c0774584bc0e9aa3e2868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-Fall.mat using Guid(fe9e3b82908c0774584bc0e9aa3e2868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02ddb41fd58c81a88b5baaa2f7159e6f') in 1.699440 seconds
+  Import took 1.707148 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3393.356130 seconds.
-  path: Assets/frenar.cs
-  artifactKey: Guid(1047fd04ae8ae3f4ebae8851d4ed43ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/frenar.cs using Guid(1047fd04ae8ae3f4ebae8851d4ed43ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e96a6b094a33ff89178c828e761a169') in 0.054681 seconds
-  Import took 0.060735 seconds .
+  Time since last request: 0.000631 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Frond_Stem.mat
+  artifactKey: Guid(811fc76a48a2e4b4990e1c9997697274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Frond_Stem.mat using Guid(811fc76a48a2e4b4990e1c9997697274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3a8e0d4909d5b61263431a6609f6e37') in 0.562244 seconds
+  Import took 0.568956 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.007459 seconds.
-  path: Assets/frenar.cs
-  artifactKey: Guid(1047fd04ae8ae3f4ebae8851d4ed43ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/frenar.cs using Guid(1047fd04ae8ae3f4ebae8851d4ed43ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e96a6b094a33ff89178c828e761a169') in 0.051400 seconds
-  Import took 0.056770 seconds .
+  Time since last request: 0.000585 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/New Material.mat
+  artifactKey: Guid(e09094204457af844b3a9e381744f971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/New Material.mat using Guid(e09094204457af844b3a9e381744f971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a0c839153c8cf5f6b365ed4f21999d') in 0.113342 seconds
+  Import took 0.121996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000734 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Day Extra Large.mat
+  artifactKey: Guid(875dcd745fec3a049881410f84623ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Day Extra Large.mat using Guid(875dcd745fec3a049881410f84623ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e634c526d641d5329afda85707eb18') in 0.118262 seconds
+  Import took 0.124325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-SphereBlue(Emissive).mat
+  artifactKey: Guid(c83d8eb4705961e488d8fd8c24679cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-SphereBlue(Emissive).mat using Guid(c83d8eb4705961e488d8fd8c24679cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '591d43fe458d3626488407cef3851365') in 0.165303 seconds
+  Import took 0.173601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree02.prefab
+  artifactKey: Guid(84f582d01d32d3b42907ae29f9cc588e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree02.prefab using Guid(84f582d01d32d3b42907ae29f9cc588e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07d1843055f8919dd42130facf418d3b') in 1.076425 seconds
+  Import took 1.082244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000631 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/2.mat
+  artifactKey: Guid(2799b2cd8f242c94198d316c876622a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/2.mat using Guid(2799b2cd8f242c94198d316c876622a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab3e6701263f40530137dcb4ddb72a4') in 0.093886 seconds
+  Import took 0.101694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000729 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Bark1.mat
+  artifactKey: Guid(f1821e7f65ffbc44987652168539f8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Bark1.mat using Guid(f1821e7f65ffbc44987652168539f8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '567e0369c7c8e9af7f4386dcb401d5e9') in 0.113758 seconds
+  Import took 0.120229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001855 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Leaf1.mat
+  artifactKey: Guid(4b5f9e711712e6d4e970e6b690cc30cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Leaf1.mat using Guid(4b5f9e711712e6d4e970e6b690cc30cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bfe1b403742695c87ea8b7d83f0d5d3') in 0.491552 seconds
+  Import took 0.497872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000600 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Coconut_Palm_Tree_AFS.mat
+  artifactKey: Guid(4123024ef4e58b446bc6eebae6957516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Coconut_Palm_Tree_AFS.mat using Guid(4123024ef4e58b446bc6eebae6957516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7235a7f84bf645dc68d485701bd9436') in 0.397227 seconds
+  Import took 0.402642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Demo_Scene_files/Sky.mat
+  artifactKey: Guid(9b74d7a6a388be343b6c9cba1d59cc1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Demo_Scene_files/Sky.mat using Guid(9b74d7a6a388be343b6c9cba1d59cc1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa28e7b8c5bb1ff9d917ef1df90018f') in 0.039996 seconds
+  Import took 0.046341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000652 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Models/Materials/RightHand.mat
+  artifactKey: Guid(6abeee8e66f6d66499ebfabe3071781b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Models/Materials/RightHand.mat using Guid(6abeee8e66f6d66499ebfabe3071781b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082b03f9c5a68c3a50c43dc658a3d45b') in 0.289574 seconds
+  Import took 0.295047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree01.prefab
+  artifactKey: Guid(32284b0ddf7eba2469cec0d0f6006f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree01.prefab using Guid(32284b0ddf7eba2469cec0d0f6006f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25cf7e1a57265835a617385bfe87bed4') in 0.098790 seconds
+  Import took 0.104236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000685 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/yellow.mat
+  artifactKey: Guid(365f74e82c412604eb549956d943d8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/yellow.mat using Guid(365f74e82c412604eb549956d943d8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fafac054da9b12696cb572d7e7699102') in 0.054275 seconds
+  Import took 0.061728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000559 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree12.prefab
+  artifactKey: Guid(9103cb21a8485ed4aafddc0a27c9d9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree12.prefab using Guid(9103cb21a8485ed4aafddc0a27c9d9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11547c64da2d7b7f1cfb9c672336d9e8') in 0.168229 seconds
+  Import took 0.176376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001338 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree09.prefab
+  artifactKey: Guid(f84c94350c56b594082c07f8ef831fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree09.prefab using Guid(f84c94350c56b594082c07f8ef831fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9540641b6fce23240507ff2ccdc0446') in 0.168492 seconds
+  Import took 0.176836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000575 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree04.prefab
+  artifactKey: Guid(c6a0b547476f98441ab0a1e6338101b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree04.prefab using Guid(c6a0b547476f98441ab0a1e6338101b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26bf50385e0afe1ce0d6d71df0bf7f2') in 0.104481 seconds
+  Import took 0.110419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Models/Materials/LeftHand.mat
+  artifactKey: Guid(83278e7188ea55a498165e1b85cde644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Models/Materials/LeftHand.mat using Guid(83278e7188ea55a498165e1b85cde644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55af3e5301d1c25a928e912b2eb800e8') in 0.067688 seconds
+  Import took 0.074142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001258 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Brush.mat
+  artifactKey: Guid(01f88f8053e244f4f877846008c6e1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Brush.mat using Guid(01f88f8053e244f4f877846008c6e1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be0aed7b75c951c2edcfcca8633ac90') in 0.093046 seconds
+  Import took 0.101765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Geometry.mat
+  artifactKey: Guid(3992912f49ac7b9418ee920cb1a06ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Geometry.mat using Guid(3992912f49ac7b9418ee920cb1a06ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b3950f588888f6f4b322b0c1741ca7') in 0.068820 seconds
+  Import took 0.073415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree08.prefab
+  artifactKey: Guid(e575a0aa287f92f4c8d8b935845f7780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree08.prefab using Guid(e575a0aa287f92f4c8d8b935845f7780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de77e1cb085e9cca36abf2e20c9454f2') in 0.125135 seconds
+  Import took 0.129788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/Passthrough/Background.mat
+  artifactKey: Guid(5542e7d1f79ac814389a3f5fe0c55630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/Passthrough/Background.mat using Guid(5542e7d1f79ac814389a3f5fe0c55630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0520bdae920cf347569d486644611034') in 0.067603 seconds
+  Import took 0.073412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/green.mat
+  artifactKey: Guid(449d9a0de4d7cd048abdf8aabe71f0e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/green.mat using Guid(449d9a0de4d7cd048abdf8aabe71f0e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0ac9282a82f760b10ab398dc5d622fc') in 0.070931 seconds
+  Import took 0.077951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000537 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/Models/Materials/No Name.mat
+  artifactKey: Guid(819288fd77d28f94caa260c8964387a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/Models/Materials/No Name.mat using Guid(819288fd77d28f94caa260c8964387a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c2f3585513a0288767352b918e9f6b') in 0.057696 seconds
+  Import took 0.062774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree11.prefab
+  artifactKey: Guid(744e5ce69c552f04daa65190ed02187e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree11.prefab using Guid(744e5ce69c552f04daa65190ed02187e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54ec01ce58859ca6381eaaf1c10ee89e') in 0.101464 seconds
+  Import took 0.106218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000917 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/IndoorBrightEdge.mat
+  artifactKey: Guid(c5fdca657c5224f41a51fb8dec38dc2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/IndoorBrightEdge.mat using Guid(c5fdca657c5224f41a51fb8dec38dc2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5147f262f6b544bcc84755aa10387e') in 0.080236 seconds
+  Import took 0.087432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Bark2.mat
+  artifactKey: Guid(2bdcdb310dae9164187a5125ee7e4068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Bark2.mat using Guid(2bdcdb310dae9164187a5125ee7e4068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4613639e5bf8892d54e27d49b874425a') in 0.085915 seconds
+  Import took 0.090391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Coconut_Palm_Tree_diffuse.mat
+  artifactKey: Guid(617790ec44ef57e43b90ff4fa57bb817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Coconut_Palm_Tree_diffuse.mat using Guid(617790ec44ef57e43b90ff4fa57bb817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d1206695827014f4d99a25804d0c042') in 0.066033 seconds
+  Import took 0.071376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001174 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree07.prefab
+  artifactKey: Guid(cd04206a30c78e84fbc449686e6b254c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree07.prefab using Guid(cd04206a30c78e84fbc449686e6b254c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8536cde05b6d368e0f471f67e592b26') in 0.127221 seconds
+  Import took 0.133525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000566 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/bark.mat
+  artifactKey: Guid(77efaf0c87af98d44a142f9aaeafc89a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/bark.mat using Guid(77efaf0c87af98d44a142f9aaeafc89a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f110944b22f59949d834250248fbec83') in 0.207245 seconds
+  Import took 0.212329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Leaf2.mat
+  artifactKey: Guid(08c6252b92ffc4344a02ee1d5dc8e603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Leaf2.mat using Guid(08c6252b92ffc4344a02ee1d5dc8e603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cabb6a14fbd1cdd0e60748be62d275e4') in 0.108307 seconds
+  Import took 0.116197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000538 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Coconut_Palm_Tree_normalspec.mat
+  artifactKey: Guid(9b60489b09e23c74a9dc7b60cf9c80a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Coconut_Palm_Tree_normalspec.mat using Guid(9b60489b09e23c74a9dc7b60cf9c80a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436d06788893ae1366d49090f323eb63') in 0.065630 seconds
+  Import took 0.071179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000553 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Dark.mat
+  artifactKey: Guid(fb67e3446f25c1d46868e799b4c56063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Dark.mat using Guid(fb67e3446f25c1d46868e799b4c56063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0591edde6651f38cb5fea392429f6dfc') in 0.033239 seconds
+  Import took 0.040427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000700 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree05.prefab
+  artifactKey: Guid(af8f633b22ea4eb42a5f54897ae30dee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree05.prefab using Guid(af8f633b22ea4eb42a5f54897ae30dee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd72f1efbe4f0001598ff82120ddd2b0') in 0.105321 seconds
+  Import took 0.112343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree06.prefab
+  artifactKey: Guid(fa685d05f0ae3cd46b1a25ad845962f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree06.prefab using Guid(fa685d05f0ae3cd46b1a25ad845962f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a66c5e88415702d4012430aea245571') in 0.141742 seconds
+  Import took 0.147284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000533 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Grid.mat
+  artifactKey: Guid(3ae24b950d4393d4da99494bcbab476f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Grid.mat using Guid(3ae24b950d4393d4da99494bcbab476f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef98be058b3d830e07ab07184761c84c') in 0.068663 seconds
+  Import took 0.074595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000766 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/Passthrough/ThresholdOverlay.mat
+  artifactKey: Guid(d13beceec606bdd4c84a60e313ea18ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/Passthrough/ThresholdOverlay.mat using Guid(d13beceec606bdd4c84a60e313ea18ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32bb90bdd8185f6df1b25b8521e8aa1f') in 0.098096 seconds
+  Import took 0.107370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000572 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/River 1.mat
+  artifactKey: Guid(285882d5b126e0748ab6e325338af51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/River 1.mat using Guid(285882d5b126e0748ab6e325338af51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16774a3789d0ddaf76a14b00941b6fb7') in 0.076522 seconds
+  Import took 0.080947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/AlphaToWhite.mat
+  artifactKey: Guid(72e5fb030c388e14f8988b632aea539a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/AlphaToWhite.mat using Guid(72e5fb030c388e14f8988b632aea539a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa8dee76e1e90712b9faf940e930693c') in 0.058743 seconds
+  Import took 0.063118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000657 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Blue.mat
+  artifactKey: Guid(d4718189765425a4894e0d0131512560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Blue.mat using Guid(d4718189765425a4894e0d0131512560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d4557ea6c90ef5464fb4c4b84da44eb') in 0.038786 seconds
+  Import took 0.044001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/RiverTerrain.mat
+  artifactKey: Guid(84af3854e137991408a2ba44c4873f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/RiverTerrain.mat using Guid(84af3854e137991408a2ba44c4873f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00b9fcdfda02ee889e7a450c33610ce2') in 0.081394 seconds
+  Import took 0.086900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000535 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/6.mat
+  artifactKey: Guid(27656a6ff553f0243b9e4354dd4e008c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/6.mat using Guid(27656a6ff553f0243b9e4354dd4e008c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9236e6b6cfe64546909c1e41295128f9') in 0.033209 seconds
+  Import took 0.037605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/4.mat
+  artifactKey: Guid(bead166364556d74d95d025159237c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/4.mat using Guid(bead166364556d74d95d025159237c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551f23857c20d29ce636e8dc54446bae') in 0.028998 seconds
+  Import took 0.033725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/River 2.mat
+  artifactKey: Guid(e85eb5930b8df08469c2438f2e091bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/River 2.mat using Guid(e85eb5930b8df08469c2438f2e091bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c71262a832da51c3c56ae74c59dda6') in 0.072490 seconds
+  Import took 0.078110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Models/Materials/No Name.mat
+  artifactKey: Guid(14aae5df69829004293200efc2196c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Models/Materials/No Name.mat using Guid(14aae5df69829004293200efc2196c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b0e83f3460e068ba86869f16ce006c') in 0.082114 seconds
+  Import took 0.088239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000586 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-LargeSea.mat
+  artifactKey: Guid(201ce9f6fa0ee65478765592fb019988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-LargeSea.mat using Guid(201ce9f6fa0ee65478765592fb019988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e1226d87badcedbdf741c7766c1ddbf') in 1.395158 seconds
+  Import took 1.400570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-MiddlePool.mat
+  artifactKey: Guid(6afab45480f045241a1a2c82e98b63ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-MiddlePool.mat using Guid(6afab45480f045241a1a2c82e98b63ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89fed6688c65fc404716e903616f31da') in 1.284520 seconds
+  Import took 1.289627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Small.mat
+  artifactKey: Guid(fd4e990800d00184d908c3f333f22098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Small.mat using Guid(fd4e990800d00184d908c3f333f22098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '329b47126f38a2fee4b9ba484411e211') in 0.087174 seconds
+  Import took 0.092460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/red.mat
+  artifactKey: Guid(f253f984ee7c1a64cb760d77f002b233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/red.mat using Guid(f253f984ee7c1a64cb760d77f002b233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2027a22a924dea465a0190cc748b8ed') in 0.034767 seconds
+  Import took 0.043898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000855 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Day Extra Large Calm.mat
+  artifactKey: Guid(897eba072fc32184f920a5dd7e054c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Day Extra Large Calm.mat using Guid(897eba072fc32184f920a5dd7e054c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fad368d9328002ae7916b6d4f58fa28') in 0.100179 seconds
+  Import took 0.107045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000781 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/StereoIR170InteractionVolume.mat
+  artifactKey: Guid(095eb2a35819f824e989239e78fa4de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/StereoIR170InteractionVolume.mat using Guid(095eb2a35819f824e989239e78fa4de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f73a975c599b4c216f695c2414cb982') in 0.093354 seconds
+  Import took 0.100491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000564 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/River.mat
+  artifactKey: Guid(17579e0c03b73c046b1776cff8a106aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/River.mat using Guid(17579e0c03b73c046b1776cff8a106aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992d548b6277d0f0dd3e1958010bc48f') in 0.081061 seconds
+  Import took 0.088072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Day GLES30.mat
+  artifactKey: Guid(f94626d14ab9e1c42b4b50b35bcc9aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Day GLES30.mat using Guid(f94626d14ab9e1c42b4b50b35bcc9aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7738f4a2b86e3947cb9ce27731f7ca2') in 0.084155 seconds
+  Import took 0.089732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/7.mat
+  artifactKey: Guid(071a0a24816f35049b564c6b1cfa5736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/7.mat using Guid(071a0a24816f35049b564c6b1cfa5736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a55201abdf56f43a05b97c6943ad179') in 0.041503 seconds
+  Import took 0.047381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000718 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree10.prefab
+  artifactKey: Guid(fbc5cd716e0ce9c41b07f09611b2fe28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree10.prefab using Guid(fbc5cd716e0ce9c41b07f09611b2fe28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dab49670e64e300f73181f6fc38fdb77') in 0.138588 seconds
+  Import took 0.146795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000980 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Models/StereoIR170-interaction-cone.obj
+  artifactKey: Guid(39d0d2580bd1f6c43882f03f38e7e946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Models/StereoIR170-interaction-cone.obj using Guid(39d0d2580bd1f6c43882f03f38e7e946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '126a4ee23969cac0e0cc622a9fef6109') in 0.202629 seconds
+  Import took 0.209510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-Flow.mat
+  artifactKey: Guid(603306518ba9d2b469d1aaf9920d9e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-Flow.mat using Guid(603306518ba9d2b469d1aaf9920d9e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93214a85caa23a1e7c841867bcbc58c2') in 1.781799 seconds
+  Import took 1.788519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000634 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Blue 1.mat
+  artifactKey: Guid(21b986187778ff943a91605c4771d194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Blue 1.mat using Guid(21b986187778ff943a91605c4771d194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc3f19d82ea2212a896ae1b85eb2632d') in 0.107251 seconds
+  Import took 0.114873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000563 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/leaf.mat
+  artifactKey: Guid(6f16583b3cb065f48b487527b1fa5f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/leaf.mat using Guid(6f16583b3cb065f48b487527b1fa5f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '762b0ce98a4a7052f775b61a461b0b47') in 0.065959 seconds
+  Import took 0.073554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000821 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/Passthrough/Foreground.mat
+  artifactKey: Guid(5c4d27217d0496548bc3a3896886cf70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/Passthrough/Foreground.mat using Guid(5c4d27217d0496548bc3a3896886cf70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db95a6e2f64c2506e94c1598a552ca10') in 0.081105 seconds
+  Import took 0.090320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000620 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/5.mat
+  artifactKey: Guid(46a101bf008dd61499a7438160cc9513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/5.mat using Guid(46a101bf008dd61499a7438160cc9513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f4c479430ce9a2822dfb9e45f6d2e90') in 0.051813 seconds
+  Import took 0.059144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001018 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Models/Materials/Lamb_LoPolyHand.mat
+  artifactKey: Guid(c5b9e8be6efc5c74aad1024a1e60cc0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Models/Materials/Lamb_LoPolyHand.mat using Guid(c5b9e8be6efc5c74aad1024a1e60cc0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f106124fd5dcdea14c58544cbe64dacf') in 0.079781 seconds
+  Import took 0.086185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001240 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree03.prefab
+  artifactKey: Guid(e318997edd53a1a4c922b2deee669aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Prefabs/TreeCreatorEditable/Coconut_Palm_Tree03.prefab using Guid(e318997edd53a1a4c922b2deee669aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60312cb79563bcead167119071b16793') in 0.127467 seconds
+  Import took 0.133254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000553 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/1.mat
+  artifactKey: Guid(1d59a7c8ad3d0a34c8f0b629af2a07f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/1.mat using Guid(1d59a7c8ad3d0a34c8f0b629af2a07f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a221605ddff947449269c1c1540eff12') in 0.049109 seconds
+  Import took 0.059142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000678 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/3.mat
+  artifactKey: Guid(dcb9173b7c8bc834abf851e32798715c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/3.mat using Guid(dcb9173b7c8bc834abf851e32798715c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470968623e0e7c028f726027c59510e7') in 0.050015 seconds
+  Import took 0.059152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000811 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/InstancedCapsuleHand.mat
+  artifactKey: Guid(50db6ec9473cfa746a5882bd2a16ced8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/InstancedCapsuleHand.mat using Guid(50db6ec9473cfa746a5882bd2a16ced8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f52ed951f58d995473c818a01331dd75') in 0.093347 seconds
+  Import took 0.102502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Sphere.mat
+  artifactKey: Guid(9274e16da0a699248a261b8bd1ffa0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Sphere.mat using Guid(9274e16da0a699248a261b8bd1ffa0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab6d342e8cdb300567f189bef832048') in 0.086901 seconds
+  Import took 0.092852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000582 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Night Extra Large.mat
+  artifactKey: Guid(f41df4b19b8e08e4d8e70b85eaaee914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/VRWaterShader(legacy)/DemoScenes/Materials/Night Extra Large.mat using Guid(f41df4b19b8e08e4d8e70b85eaaee914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dcdfca3147140ddddf2b010a74062ab') in 0.098832 seconds
+  Import took 0.104662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000619 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-SphereRed.mat
+  artifactKey: Guid(31866812066d3f94ab453a3c6755b9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-SphereRed.mat using Guid(31866812066d3f94ab453a3c6755b9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00207498b2962e955428cea36da0eb54') in 0.217779 seconds
+  Import took 0.226277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000540 seconds.
+  path: Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Bark3.mat
+  artifactKey: Guid(a8b758070d5a9f349b7c20a99e301e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Bark3.mat using Guid(a8b758070d5a9f349b7c20a99e301e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef13be356103fc985bcee5777736c5a') in 0.109587 seconds
+  Import took 0.115034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000574 seconds.
+  path: Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-LargeSea 1.mat
+  artifactKey: Guid(d7f14e99d557e124ea90e8c15475ec47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/VRWaterShader2/DemoScenes/Materials/Water-LargeSea 1.mat using Guid(d7f14e99d557e124ea90e8c15475ec47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d4bdf1a81bb91437662ee4b5f6bc145') in 1.454972 seconds
+  Import took 1.460401 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001763 seconds.
+Registered in 0.002857 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.16 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.859 seconds
+- Completed reload, in  2.456 seconds
 Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.6 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1974.
+Total: 6.590200 ms (FindLiveObjects: 0.712800 ms CreateObjectMapping: 0.424800 ms MarkObjects: 5.201900 ms  DeleteObjects: 0.246700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 181.428415 seconds.
+  path: Assets/ObjetoPlaya/Terrain.prefab
+  artifactKey: Guid(f6e1704392d9fa34abdb38bd6596df84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Terrain.prefab using Guid(f6e1704392d9fa34abdb38bd6596df84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1cc81aea94b920a42c5671989a8253') in 0.114479 seconds
+  Import took 0.120708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001033 seconds.
+  path: Assets/ObjetoPlaya/Terrain.prefab
+  artifactKey: Guid(f6e1704392d9fa34abdb38bd6596df84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/Terrain.prefab using Guid(f6e1704392d9fa34abdb38bd6596df84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1cc81aea94b920a42c5671989a8253') in 0.052964 seconds
+  Import took 0.058644 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003859 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.757 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.6 MB.
+System memory in use after: 91.7 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1977.
+Total: 3.840300 ms (FindLiveObjects: 0.391600 ms CreateObjectMapping: 0.044000 ms MarkObjects: 3.191800 ms  DeleteObjects: 0.210500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002779 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.8 MB.
-System memory in use after: 89.9 MB.
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1984.
-Total: 4.780200 ms (FindLiveObjects: 0.580600 ms CreateObjectMapping: 0.175000 ms MarkObjects: 3.828500 ms  DeleteObjects: 0.192500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001817 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.859 seconds
+- Completed reload, in  1.990 seconds
 Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.6 MB.
+System memory in use after: 91.7 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1980.
+Total: 4.998500 ms (FindLiveObjects: 0.416200 ms CreateObjectMapping: 0.092300 ms MarkObjects: 4.219400 ms  DeleteObjects: 0.267500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 842.241229 seconds.
+  path: Assets/ObjetoPlaya/12984_beach_umbrella_v1_L2.obj
+  artifactKey: Guid(cdbc20b0ac4ffe94d978a169ed634d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjetoPlaya/12984_beach_umbrella_v1_L2.obj using Guid(cdbc20b0ac4ffe94d978a169ed634d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10eeb504d6fd119321bf4ab9e70e3f12') in 0.313329 seconds
+  Import took 0.323327 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003334 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.364 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.8 MB.
-System memory in use after: 89.9 MB.
+System memory in use before: 91.7 MB.
+System memory in use after: 91.8 MB.
 
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1987.
-Total: 3.966600 ms (FindLiveObjects: 0.381100 ms CreateObjectMapping: 0.071500 ms MarkObjects: 3.334100 ms  DeleteObjects: 0.177000 ms)
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1984.
+Total: 10.123900 ms (FindLiveObjects: 1.402200 ms CreateObjectMapping: 2.282900 ms MarkObjects: 5.962300 ms  DeleteObjects: 0.473600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 458.235743 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(44b2c64467aefaa48a3acb2b4c392bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(44b2c64467aefaa48a3acb2b4c392bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b26c2791bcc6a0f08cb53f9cda9abd5a') in 0.128706 seconds
+  Import took 0.132540 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002486 seconds.
+Registered in 0.002780 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.16 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.965 seconds
+- Completed reload, in  2.180 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 7.15 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.8 MB.
-System memory in use after: 89.9 MB.
+Unloading 1438 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.7 MB.
+System memory in use after: 91.7 MB.
 
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1990.
-Total: 8.248300 ms (FindLiveObjects: 0.930200 ms CreateObjectMapping: 0.195700 ms MarkObjects: 6.851600 ms  DeleteObjects: 0.266800 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1987.
+Total: 6.012700 ms (FindLiveObjects: 0.456900 ms CreateObjectMapping: 0.062600 ms MarkObjects: 5.245600 ms  DeleteObjects: 0.245000 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
